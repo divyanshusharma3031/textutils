@@ -1,0 +1,10 @@
+const a="divyanshu";
+const b="divyansh";
+const c="aditi";
+const d="himanshu";
+const e="font-awesome";
+export default d;
+export {a,b};
+// export {b};
+export {c};
+export {e};
